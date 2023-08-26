@@ -23,7 +23,10 @@ Live in Russia. like: music, vitubers, great code sites, TypeScript, vite, and, 
 ...and many others
 
 ### What I Hope To Learn
-<img src="https://img.shields.io/badge/japan-日本語-ff0000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/UI-Interface-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/UX-Experience-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/PWA-%20Web%20App-blue?style=for-the-badge&logo=google-chrome">
+[<img src="https://img.shields.io/badge/japan-日本語-ff0000?style=for-the-badge&logoColor=white">](https://www.kanshudo.com/)
+[<img src="https://img.shields.io/badge/UI-UX-212121?style=for-the-badge&logo=appveyor">](https://www.youtube.com/@juxtopposed)
+[<img src="https://img.shields.io/badge/PWA-77c4ff?style=for-the-badge&logo=google-chrome">](https://www.youtube.com/watch?v=sFsRylCQblw)
+[<img src="https://img.shields.io/badge/LeetCode-blueviolet?style=for-the-badge&link=https%3A%2F%2Fleetcode.com%2F&link=https%3A%2F%2Fneetcode.io%2Froadmap">](https://neetcode.io/roadmap)
 
 ### My favorite programming things
 * [Дока](https://doka.guide) - Mega convenient documentation!
