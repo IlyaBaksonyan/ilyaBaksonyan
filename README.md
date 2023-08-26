@@ -1,5 +1,5 @@
 ## Hey, I'm ilya. 
-[![wakatime](https://wakatime.com/badge/user/40ddaa60-5640-4cbb-8970-cceddbc65e82.svg)](https://wakatime.com/@40ddaa60-5640-4cbb-8970-cceddbc65e82)
+[![wakatime](https://wakatime.com/badge/user/40ddaa60-5640-4cbb-8970-cceddbc65e82.svg)](https://wakatime.com/@40ddaa60-5640-4cbb-8970-cceddbc65e82) [![CodeTime badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20051%26project%3D%26in%3D86400000)](https://codetime.dev)
 
 Live in Russia. like: music, vitubers, great code sites, TypeScript, vite, and, thinks coding.
 
