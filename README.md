@@ -1,5 +1,8 @@
 ## Hey, I'm ilya. 
+[![wakatime](https://wakatime.com/badge/user/40ddaa60-5640-4cbb-8970-cceddbc65e82.svg)](https://wakatime.com/@40ddaa60-5640-4cbb-8970-cceddbc65e82)
+
 Live in Russia. like: music, vitubers, great code sites, TypeScript, vite, and, thinks coding.
+
 ### Get In Touch
 <a href="mailto:zateev.connects@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
