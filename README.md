@@ -26,12 +26,13 @@ Live in Russia. like: music, vitubers, great code sites, TypeScript, vite, and, 
 <img src="https://img.shields.io/badge/japan-日本語-ff0000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/UI-Interface-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/UX-Experience-blue?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/PWA-%20Web%20App-blue?style=for-the-badge&logo=google-chrome">
 
 ### My favorite programming things
-* <a href="https://doka.guide">Дока</a> - Mega convenient documentation!
-* <a href="https://www.youtube.com/@it2138">Как пройти в It</a> - Very good youtuber on programming
-* <a href="https://typescript-definitive-guide.ru">TypeScript documentation</a> - They're, like, really created convenient documentation on typescript in Russian with... 396 chapters...
-* <a href="https://overapi.com">OverAPI.com</a> - Place with all cheatsheets.
-* <a href="https://www.youtube.com/@KevinPowell">Kevin Powell</a> - You really don't know him?
-* <a href="https://realtimecolors.com/">Realtime Colors</a> - Visualize your colors on real website
+* [Дока](https://doka.guide) - Mega convenient documentation!
+* [Как пройти в It](https://www.youtube.com/@it2138) - Very good YouTuber on programming
+* [Веб-стандарты](https://web-standards.ru) - Podcasts with overviews of web development and technologies
+* [TypeScript documentation](https://typescript-definitive-guide.ru) - They've created really convenient documentation on TypeScript in Russian with... 396 chapters...
+* [OverAPI.com](https://overapi.com) - Place with all cheatsheets.
+* [Kevin Powell](https://www.youtube.com/@KevinPowell) - You really don't know him?
+* [Realtime Colors](https://realtimecolors.com/) - Visualize your colors on a real website
 
 ### My Favorite Project Repos
 * <a href="https://github.com/azat-io/eslint-plugin-perfectionist">Eslint-plugin-perfectionist</a> - Sorting imports, TypeScript types, enums, etc.
