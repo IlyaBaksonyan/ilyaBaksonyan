@@ -8,7 +8,8 @@ Live in Russia. like: music, vitubers, great code sites, TypeScript, vite, and, 
 <a href="mailto:zateev.connects@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-... and not yet:
+<br>
+... and not yet: <br>
 <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=#343541">
 </a>
